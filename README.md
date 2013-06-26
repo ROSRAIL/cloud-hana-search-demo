@@ -1,7 +1,7 @@
 SAP HANA Cloud Samples - HANA Search Demo
 ==========================================
 
-This sample web application demonstrates how-to use native SAP HANA search (fuzzy and linguistic) in Java applications running on SAP HANA Cloud Platform. #cloud-sample 
+This sample web application demonstrates how-to use native SAP HANA search (fuzzy and linguistic) in Java applications running on SAP HANA Cloud Platform.
 
 Quick start
 -----------
@@ -23,8 +23,6 @@ Application startup
 You can run "HANA Search Demo" application only on the Cloud.
 
 Running on the Cloud
- - go to your computer's properties, Advanced System Settings, Environment variables and create a new system variable named "NW_CLOUD_SDK_PATH" and 
- enter the path to the directory where you have the downloaded the SAP HANA Cloud SDK to.
  - from command prompt run "mvn clean install" to build war file
  - deploy war file to the cloud
  - navigate to SearchDemoServlet URL, and try the search

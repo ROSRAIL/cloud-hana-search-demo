@@ -9,7 +9,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.sap.netweaver.cloud.sample.cloud-hana-search-demo</groupId>
+    <groupId>com.sap.hana.cloud.sample.cloud-hana-search-demo</groupId>
 	<artifactId>cloud-hana-search-demo</artifactId>
     <packaging>war</packaging>
     <version>0.0.1</version>
@@ -38,7 +38,7 @@
         </license>
     </licenses>
 
-    <url>https://github.com/sapnwcloud/cloud-hana-search-demo</url>
+    <url>https://github.com/SAP/cloud-hana-search-demo</url>
 
     <repositories>
         <repository>
