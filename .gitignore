@@ -1,0 +1,10 @@
+
+# Binary folders
+
+*/bin/
+
+*/lib/
+*/target/
+
+/build
+/target
